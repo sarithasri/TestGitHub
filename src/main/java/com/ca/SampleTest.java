@@ -5,7 +5,7 @@ class SampleTest
 		System.out.println("This is sample TEst messgae info");
 		System.out.println("This is sample TEst messgae info1");
 		System.out.println("This is sample TEst messgae info1");
-		
+		System.out.println("Testing");	
 		
 	}
 }
